@@ -11,7 +11,7 @@ from telegram.ext import (
 )
 import datetime
 
-BOT_TOKEN = "7611532391:AAFgf-M2qX3Kea1Aclrk6yZSldulT-CXkg4"
+BOT_TOKEN = "7611532391:AAFIf9PHy4WsuFgiLQ4jW0hP4a22vadZVbk"
 
 # In-memory feedback store
 user_feedback = defaultdict(lambda: {"likes": 0, "dislikes": 0})
